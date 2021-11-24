@@ -1,0 +1,7 @@
+module Typings
+  def self.say
+    puts "Hello from typings!"
+  end
+end
+
+Typings.say
